@@ -5,7 +5,7 @@
 class Gzsync < Formula
   desc "gzsync command"
   homepage "https://github.com/kalyan02/gzsync"
-  version 0.1.3
+  version "0.1.3"
   bottle :unneeded
 
   on_macos do
